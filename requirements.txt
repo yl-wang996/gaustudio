@@ -11,3 +11,4 @@ kiui
 scipy
 open3d
 PyMCubes==0.1.4
+scikit-image
